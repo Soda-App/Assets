@@ -1,2 +1,2 @@
 # Assets
- Assets for the Tweeter app.
+Assets for the Soda app.
